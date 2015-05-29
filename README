@@ -1,0 +1,14 @@
+This is the GitHub source code repository for a MSGEQ7+MOSFET 7-band graphic equalizer sample app for Arduino. 
+
+This board was featured on KickStarter:
+https://www.kickstarter.com/projects/1471240030/msgeq7-breakout-boards
+
+In this folder are:
+1. README - this file
+2. MSGEQ7_MOSFET.ino - the Arduino sample code for driving the MSGEQ7
+
+The breakout board for the MSGEQ7 is available from www.whizoo.com and eBay.
+
+Peter Easton 2015
+Whizoo.com
+
